@@ -13,7 +13,8 @@ p{
 	margin:0;
 }
 h1,h2,h3,h4,h5,h6{
-	font-family: 'Alex Brush', cursive;
+	
+	font-family: 'Signika Negative';
 	font-weight:100;
 	margin:0;
 }
@@ -42,7 +43,7 @@ body a:hover{
     font-size: 3.5em;
     line-height: 20px;
     color: #fff !important;
-	font-family: 'Alex Brush', cursive;
+	font-family: 'Signika Negative';
 }
 .navbar-nav {
     margin: 0 0 0 10em;
